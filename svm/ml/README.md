@@ -27,5 +27,3 @@ http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 The code is more for testing than anything else and for practice. But I hope that you find it useful.
 If you do make sure to star/fork the repository. 
 
-##### About me
-I am a High School Student from Greece.
